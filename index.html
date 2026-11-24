@@ -55,6 +55,11 @@
 *,*::before,*::after{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;background:var(--ground);font-size:clamp(16px,.62vw + 6.6px,23px)}
 body{margin:0;background:var(--ground);color:var(--text);font-family:var(--font-body);font-size:var(--body);line-height:1.6;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+/* paper grain over everything */
+body::after{content:"";position:fixed;inset:0;z-index:60;pointer-events:none;background:url(img/grain.png) 0 0/256px 256px;opacity:.11}
+@media (min-resolution:2dppx){body::after{background-size:192px 192px}}
+@media print{body::after{display:none}}
+
 img{display:block;max-width:100%}
 a{color:inherit}
 p,h1,h2,h3,figure{margin:0}
