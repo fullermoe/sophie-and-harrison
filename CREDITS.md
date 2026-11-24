@@ -4,7 +4,7 @@ All eight are 17th-century Dutch still lifes in the public domain.
 
 | File | Painting | Artist | Collection | Source |
 |---|---|---|---|---|
-| img/heda.jpg | Still Life with Oysters, a Silver Tazza, and Glassware, 1635 | Willem Claesz. Heda | The Metropolitan Museum of Art | https://commons.wikimedia.org/wiki/File:Willem_Claesz._Heda_-_Still_Life_with_Oysters,_a_Silver_Tazza,_and_Glassware.jpg |
+| img/hero-wide.jpg, img/hero-tall.jpg | Still Life, c. 1665 (cropped) | Abraham van Beyeren | Rijksmuseum (SK-A-3944) | https://commons.wikimedia.org/wiki/File:Stilleven_Rijksmuseum_SK-A-3944.jpeg |
 | img/claesz.jpg | Still Life with a Turkey Pie, 1627 | Pieter Claesz | Rijksmuseum | https://commons.wikimedia.org/wiki/File:Pieter_Claesz._-_Stilleven_met_kalkoenpastei_(1627).jpg |
 | img/coorte-peaches.jpg | Peaches and apricots on a stone ledge | Adriaen Coorte | see source page | https://commons.wikimedia.org/wiki/File:Adriaen_Coorte_-_Perziken_en_abrikozen_op_een_stenen_richel.jpg |
 | img/hals.jpg | Marriage Portrait of Isaac Massa and Beatrix van der Laen, c. 1622 (cropped) | Frans Hals | Rijksmuseum | https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Wedding_portrait_of_Isaac_Abrahamsz_Massa_and_Beatrix_van_der_Laan.jpg |

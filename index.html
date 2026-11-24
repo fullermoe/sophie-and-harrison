@@ -112,8 +112,9 @@ h1,h2,h3{font-weight:400;text-wrap:balance}
 /* ---------- Hero: one painting, edge to edge, the names written over it ---------- */
 .hero{position:relative;height:100vh;height:100svh;min-height:420px;overflow:hidden;color:var(--ivory);background:var(--ground)}
 .hero-art{position:absolute;inset:-4% 0 -14% 0;will-change:transform}
-.hero-art img{width:100%;height:100%;object-fit:cover;object-position:50% 100%}
-.hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,13,10,.5) 0%,rgba(12,13,10,.05) 32%,rgba(12,13,10,0) 70%,rgba(12,13,10,.6) 100%)}
+.hero-art picture{display:block;width:100%;height:100%}
+.hero-art img{width:100%;height:100%;object-fit:cover;object-position:50% 70%}
+.hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,13,10,.5) 0%,rgba(12,13,10,.05) 32%,rgba(12,13,10,0) 62%,rgba(12,13,10,.74) 100%)}
 .hero-mid{position:absolute;left:50%;top:41%;transform:translate(-50%,-50%);text-align:center;will-change:transform,opacity}
 .hero h1{font-size:var(--hand-xl);line-height:0;color:var(--ivory)}
 .hero h1 .name{display:block;overflow:visible;filter:drop-shadow(0 2px 18px rgba(8,10,8,.45))}
@@ -335,7 +336,7 @@ details p{padding:0 3rem 1.5em 0;max-width:31em;color:rgba(34,45,39,.82)}
   .things li{display:grid;grid-template-columns:auto minmax(0,1fr);align-items:start;gap:0}
   .things li > .ink{margin-top:.35em}
   .things li > span{grid-column:2;text-align:left}
-  .hero-art img{object-position:66% 100%}
+  .hero-art img{object-position:55% 50%}
   .closing-copy .sign{font-size:clamp(1.7rem,8vw,2.8rem)}
   .colophon .wide-only{display:none}
   .colophon .place span{display:block}
@@ -437,7 +438,7 @@ details p{padding:0 3rem 1.5em 0;max-width:31em;color:rgba(34,45,39,.82)}
   <!-- HERO -->
   <section class="hero" id="hero" aria-label="Sophie and Harrison, October 8 to 10, 2027">
     <div class="hero-art" id="heroArt">
-      <img src="img/heda.jpg" alt="Still Life with Oysters, a Silver Tazza, and Glassware by Willem Claesz. Heda, 1635.">
+      <picture><source media="(max-width:820px)" srcset="img/hero-tall.jpg"><img src="img/hero-wide.jpg" alt="A seventeenth-century Dutch still life: a bowl of peaches and grapes, a gilt cup, roses, a cut melon and a crab on a table draped in satin."></picture>
       <div class="hero-shade"></div>
     </div>
     <div class="hero-mid" id="heroMid">
