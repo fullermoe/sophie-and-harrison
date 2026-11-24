@@ -109,7 +109,7 @@ h1,h2,h3{font-weight:400;text-wrap:balance}
 .hero-art{position:absolute;inset:-4% 0 -14% 0;will-change:transform}
 .hero-art img{width:100%;height:100%;object-fit:cover;object-position:50% 100%}
 .hero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(12,13,10,.5) 0%,rgba(12,13,10,.05) 32%,rgba(12,13,10,0) 70%,rgba(12,13,10,.6) 100%)}
-.hero-mid{position:absolute;left:50%;top:30%;transform:translate(-50%,-50%);text-align:center;will-change:transform,opacity}
+.hero-mid{position:absolute;left:50%;top:41%;transform:translate(-50%,-50%);text-align:center;will-change:transform,opacity}
 .hero h1{font-size:var(--hand-xl);line-height:0;color:var(--ivory)}
 .hero h1 .name{display:block;overflow:visible;filter:drop-shadow(0 2px 18px rgba(8,10,8,.45))}
 .hero h1 .name-tall{display:none}
@@ -278,6 +278,7 @@ details p{padding:0 3rem 1.5em 0;max-width:31em;color:rgba(34,45,39,.82)}
 .over--up{flex-direction:column;gap:0}
 .over--up .ink{align-self:flex-end;margin:0 -1.1em .05em 0}
 .over--col .ink{align-self:flex-end;margin-top:.1em}
+.over--menu .ink{width:1.25em;margin:.05em 1.5em 0 0}
 .split-art .over{opacity:0}
 .split-art .over.on{opacity:1}
 .map{width:100%;max-width:1100px;height:auto;margin-top:clamp(36px,5vw,72px);color:var(--ivory);stroke-width:1.6}
@@ -429,7 +430,7 @@ details p{padding:0 3rem 1.5em 0;max-width:31em;color:rgba(34,45,39,.82)}
         <svg class="ink map" viewBox="0 0 600 392" role="img" aria-label="A hand-drawn map: park on the mainland, take the ferry, and the lodge is on the island."><path pathLength="1" style="--d:0.2s;--t:1.4s" d="M0 262 C 36 246, 66 272, 94 258 C 120 246, 130 286, 152 306 C 172 324, 150 356, 178 384"/><path pathLength="1" style="--d:1.5s;--t:0.5s" d="M108 268 L150 250 M116 278 L158 260"/><path pathLength="1" style="--d:1.9s;--t:1.8s" d="M372 200 C 358 162, 392 118, 440 108 C 490 96, 550 118, 562 162 C 574 206, 536 242, 480 248 C 430 254, 386 238, 372 200"/><path pathLength="1" style="--d:3.6s;--t:0.7s" d="M462 190 L462 170 L479 157 L496 170 L496 190 Z"/><path pathLength="1" style="--d:4.2s;--t:0.5s" d="M487 163 L487 152 L492 152 L492 167 M489 148 C 486 144, 494 142, 490 137"/><path pathLength="1" style="--d:4.4s;--t:0.6s" d="M412 176 L412 152 M402 164 L412 142 L422 164 M404 172 L412 156 L420 172"/><path pathLength="1" style="--d:4.7s;--t:0.6s" d="M528 160 L528 138 M519 150 L528 130 L537 150 M521 157 L528 143 L535 157"/><path pathLength="1" style="--d:5s;--t:0.5s" d="M438 222 L438 202 M430 213 L438 195 L446 213"/><path pathLength="1" style="--d:5.2s;--t:0.5s" d="M536 208 L536 190 M528 200 L536 183 L544 200"/><path pathLength="1" style="--d:5.5s;--t:0.8s" d="M246 226 C 252 237, 280 237, 287 225 L246 226 M254 225 L254 214 L280 214 L280 225"/><path pathLength="1" style="--d:6s;--t:0.5s" d="M214 330 C 220 324, 226 334, 234 328 S 248 324, 254 330"/><path pathLength="1" style="--d:6.2s;--t:0.5s" d="M318 304 C 324 298, 330 308, 338 302 S 352 298, 358 304"/><path pathLength="1" style="--d:6.4s;--t:0.4s" d="M252 286 C 258 280, 264 290, 272 284"/><path pathLength="1" style="--d:6.6s;--t:0.6s" d="M60 216 C 70 226, 86 236, 104 248 M90 238 L105 249 L88 252"/><path class="route" d="M156 252 C 216 204, 300 252, 368 202"/><text x="8" y="206" style="--d:6.6s" transform="rotate(-6 8 206)">park here</text><text x="212" y="196" style="--d:5.6s" transform="rotate(-8 212 196)">the ferry</text><text x="408" y="86" style="--d:3.2s" transform="rotate(-4 408 86)">the island</text><text x="452" y="290" style="--d:4.2s" transform="rotate(-3 452 290)">us, waiting</text><text x="24" y="352" style="--d:1.4s" transform="rotate(-5 24 352)">the mainland</text></svg>
       </div>
       <figure class="plate">
-        <div class="art reveal"><img data-speed=".08" src="img/coorte-peaches.jpg" loading="lazy" alt="Peaches and apricots on a stone ledge by Adriaen Coorte, late 1600s."><p class="over over--col" style="left:9%;top:24%"><em>not the actual menu</em><svg class="ink " viewBox="0 0 80 54" aria-hidden="true" focusable="false"><path pathLength="1" style="--d:0.3s;--t:0.7s" d="M6 6 C 12 30, 40 46, 72 42"/><path pathLength="1" style="--d:0.95s;--t:0.3s" d="M59 31 L73 42 L58 50"/></svg></p></div>
+        <div class="art reveal"><img data-speed=".08" src="img/coorte-peaches.jpg" loading="lazy" alt="Peaches and apricots on a stone ledge by Adriaen Coorte, late 1600s."><p class="over over--col over--menu" style="left:9%;top:27%"><em>not the actual menu</em><svg class="ink " viewBox="0 0 60 110" aria-hidden="true" focusable="false"><path pathLength="1" style="--d:0.3s;--t:0.8s" d="M18 4 C 6 40, 20 78, 46 102"/><path pathLength="1" style="--d:1.05s;--t:0.3s" d="M29 100 L47 103 L48 85"/></svg></p></div>
       </figure>
     </div>
   </section>
