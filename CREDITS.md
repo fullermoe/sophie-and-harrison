@@ -8,7 +8,7 @@ All are public-domain paintings. Files supplied by hand (Krøyer, Homer, Hammers
 | img/kroyer-party.jpg | Hip, Hip, Hurrah! Artists’ Party at Skagen, 1888 | P.S. Krøyer | Gothenburg Museum of Art (F 62) | supplied by Fuller |
 | img/coorte-peaches.jpg | Peaches and apricots on a stone ledge | Adriaen Coorte | see source page | https://commons.wikimedia.org/wiki/File:Adriaen_Coorte_-_Perziken_en_abrikozen_op_een_stenen_richel.jpg |
 | img/renoir-dance.jpg | Dance at Bougival, 1883 | Pierre-Auguste Renoir | Museum of Fine Arts, Boston | supplied by Fuller (DressedUp.jpg) |
-| img/schalcken-candle.jpg | Girl with a Burning Candle (edges trimmed) | Godfried Schalcken | Staatliches Museum Schwerin (SM 735) | https://commons.wikimedia.org/wiki/File:Girl_with_Burning_Candle_(SM_735).png |
+| img/sargent-lanterns.jpg | Carnation, Lily, Lily, Rose, 1885–86 | John Singer Sargent | Tate (N01615) | https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Carnation,_Lily,_Lily,_Rose_-_Google_Art_Project.jpg |
 | img/homer-boat.jpg | The Blue Boat, 1892 | Winslow Homer | Museum of Fine Arts, Boston | supplied by Fuller |
 | img/hammershoi-room.jpg | Dust Motes Dancing in the Sunbeams, 1900 | Vilhelm Hammershøi | Ordrupgaard | supplied by Fuller |
-| img/whistler-nocturne.jpg | Nocturne: Blue and Gold – Old Battersea Bridge, c. 1872–75 | James McNeill Whistler | Tate (N01959) | supplied by Fuller |
+| img/kroyer-evening.jpg | Summer Evening on Skagen’s Southern Beach, 1893 | P.S. Krøyer | Skagens Museum | https://commons.wikimedia.org/wiki/File:P.S._Krøyer_-_Summer_evening_on_Skagen%27s_Beach._Anna_Ancher_and_Marie_Krøyer_walking_together._-_Google_Art_Project.jpg |
