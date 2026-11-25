@@ -10,5 +10,5 @@ All are public-domain paintings. Files supplied by hand (Krøyer, Homer, Hammers
 | img/renoir-dance.jpg | Dance at Bougival, 1883 | Pierre-Auguste Renoir | Museum of Fine Arts, Boston | supplied by Fuller (DressedUp.jpg) |
 | img/sargent-lanterns.jpg | Carnation, Lily, Lily, Rose, 1885–86 | John Singer Sargent | Tate (N01615) | https://commons.wikimedia.org/wiki/File:John_Singer_Sargent_-_Carnation,_Lily,_Lily,_Rose_-_Google_Art_Project.jpg |
 | img/homer-boat.jpg | The Blue Boat, 1892 | Winslow Homer | Museum of Fine Arts, Boston | supplied by Fuller |
-| img/hammershoi-room.jpg | Dust Motes Dancing in the Sunbeams, 1900 | Vilhelm Hammershøi | Ordrupgaard | supplied by Fuller |
+| img/holsoe-interior.jpg | Interior (title to confirm) | Carl Holsøe | to confirm | supplied by Fuller (CarlHolsoe.png) |
 | img/kroyer-evening.jpg | Summer Evening on Skagen’s Southern Beach, 1893 | P.S. Krøyer | Skagens Museum | https://commons.wikimedia.org/wiki/File:P.S._Krøyer_-_Summer_evening_on_Skagen%27s_Beach._Anna_Ancher_and_Marie_Krøyer_walking_together._-_Google_Art_Project.jpg |
