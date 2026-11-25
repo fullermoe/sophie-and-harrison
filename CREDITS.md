@@ -1,6 +1,6 @@
 # Paintings
 
-All are public-domain paintings. Files supplied by hand (Krøyer, Homer, Hammershøi) should have their exact source page recorded here.
+All are public-domain paintings. Files supplied by hand (Krøyer, Homer, Hammershøi, Whistler) should have their exact source page recorded here.
 
 | File | Painting | Artist | Collection | Source |
 |---|---|---|---|---|
@@ -11,4 +11,4 @@ All are public-domain paintings. Files supplied by hand (Krøyer, Homer, Hammers
 | img/coorte-bowl.jpg | Asparagus, gooseberries and a bowl of strawberries | Adriaen Coorte | see source page | https://commons.wikimedia.org/wiki/File:Still_life_with_asparagus,_a_spray_of_gooseberries_and_a_bowl_of_strawberrie_(Adriaen_Coorte).jpg |
 | img/homer-boat.jpg | The Blue Boat, 1892 | Winslow Homer | Museum of Fine Arts, Boston | supplied by Fuller |
 | img/hammershoi-room.jpg | Dust Motes Dancing in the Sunbeams, 1900 | Vilhelm Hammershøi | Ordrupgaard | supplied by Fuller |
-| img/beyeren.jpg | Silver Wine Jug, Ham, and Fruit, c. 1660-66 | Abraham van Beyeren | The Cleveland Museum of Art (CC0) | https://clevelandart.org/art/1960.80 |
+| img/whistler-nocturne.jpg | Nocturne: Blue and Gold – Old Battersea Bridge, c. 1872–75 | James McNeill Whistler | Tate (N01959) | supplied by Fuller |
